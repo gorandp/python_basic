@@ -2,6 +2,8 @@
 
 Algo básico de python para los que me estuvieron preguntando.
 
+Les aconsejo que primero lean todo así tienen un pantallazo de esta introducción.
+
 ## Setup
 
 ### Python
