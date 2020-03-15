@@ -48,7 +48,9 @@ Además, seguro encontrarán librerías que no saben que hacen, por lo que yo ha
 
 Cualquiera que tenga dudas o encuentra algo que se pueda mejorar de esta introducción me escribe por WhatsApp o me habla en la facu directamente. Si tienen cuenta en GitHub pueden abrir un issue directamente en donde ustedes creen que se podría mejorar.
 
-Espero que esto les sea útil
+Espero que esto les sea útil y cualquier cosa me hablan.
+
+Si alguien quiere agregar su código a este repo (abreviación de repositorio) me dice y le dejo que contribuya a esta repo.
 
 [W3Schools]: https://www.w3schools.com/python/default.asp
 [VSCode]: https://code.visualstudio.com/
