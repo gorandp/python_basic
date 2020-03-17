@@ -1,0 +1,3 @@
+# Instalar las librerías:
+pandas
+numpy
