@@ -42,7 +42,7 @@ Si no saben cómo hacer algo simple porque no conocen la manera correcta (por ej
 
 ## Un poco de código para leer
 
-Algo que me ayudó y aceleró mi aprendizaje con este lenguaje, fue tener que leer código ajeno. Así que en este repositorio dejé una carpeta con unos scripts donde se explica que es lo que hace cada uno.
+Algo que me ayudó y aceleró mi aprendizaje con este lenguaje, fue tener que leer código ajeno. Así que en este repositorio dejé una carpeta con unos scripts donde se explica que es lo que hace cada uno y otra carpeta con un script para cargar y mostrar los casos confirmados de covid-19 en Argentina (copy-paste de [esta página][10]).
 
 El desafío está en conectar la explicación del programa y el código en sí.
 
@@ -83,3 +83,4 @@ Si alguien quiere agregar su código a este repo (abreviación de repositorio) m
 [7]: https://github.com/gorandp/python_basic
 [8]: https://scipython.com/blog/
 [9]: https://youtube.com/
+[10]: https://scipython.com/blog/plotting-covid-19-cases/
