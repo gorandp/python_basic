@@ -9,10 +9,10 @@ READ_FROM_URL = True
 LOCAL_CSV_FILE = 'covid-19-cases.csv'
 
 # Start the plot on the day when the number of confirmed cases reaches MIN_CASES.
-MIN_CASES = 100
+MIN_CASES = 1
 
 # The country to plot the data for.
-country = 'United Kingdom'
+country = 'Argentina'
 
 # This is the GitHub URL for the Johns Hopkins data in CSV format
 data_loc = ('https://raw.githubusercontent.com/CSSEGISandData/COVID-19/master/'
