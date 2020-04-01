@@ -44,7 +44,7 @@ Si no saben cómo hacer algo simple porque no conocen la manera correcta (por ej
 
 Algo que me ayudó y aceleró mi aprendizaje con este lenguaje, fue tener que leer código ajeno. Así que en este repositorio dejé una carpeta con unos scripts donde se explica que es lo que hace cada uno y otra carpeta con un script para cargar y mostrar los casos confirmados de covid-19 en Argentina (copy-paste de [esta página][10]).
 
-El desafío está en conectar la explicación del programa y el código en sí.
+El desafío está en conectar la explicación del programa y el código en sí. Y luego en el otro es directamente ver el código e ir entendiéndolo.
 
 Además, seguro encontrarán librerías que no saben que hacen, por lo que yo haría es copiar y pegar el nombre de la librería en su buscador y así encontrar la documentación para entender de que va y cómo se usa.
 
