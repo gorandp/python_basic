@@ -70,6 +70,10 @@ Si alguien quiere agregar su código a este repo (abreviación de repositorio) m
 - regular expression
 - [SciPython][8] (está buenísima)
 
+---
+
+## Espero que se diviertan como yo lo hice. Saludos! :D
+
 [W3Schools]: https://www.w3schools.com/python/default.asp
 [VSCode]: https://code.visualstudio.com/
 [Atom]: https://atom.io/
