@@ -2,7 +2,7 @@
 
 ## Watchout!
 
-- ORIGINAL REPO. [mazesolving][1]
+- ORIGINAL REPO. [mazesolving][1] (si quieren editarlo/mejorarlo, haga fork del repositorio original)
 - YOUTUBE VIDEO. [Maze Solving - Computerphile][2]
 - YOUTUBE VIDEO. [EXTRA BITS - Maze Solving Code - Computerphile][3]
 
