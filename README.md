@@ -10,7 +10,7 @@ Les aconsejo que primero lean todo así tienen un pantallazo de esta introducci�
 
 Para usar python, si no lo tienen instalado en su computadora, deben de descargarlo e instalarlo.
 
-Hay tutoriales en youtube para hacerlo, yo les comparto [este que hice][9].
+Hay tutoriales en youtube para hacerlo, yo les comparto [este básico que hice][9] en el que no lo dejo tan explícito, sino que lo que hago es dejarlo andando junto con VS Code (le falta explicar mil cosas, pero bueno, fue la primera vez que hago algo así :) ). Dejen en los comentarios del video si encuentran errores, tienen sugerencias, etc.
 
 ### Instalar editor de código
 
@@ -86,5 +86,5 @@ Si alguien quiere agregar su código a este repo (abreviación de repositorio) m
 [6]: https://stackoverflow.com/
 [7]: https://github.com/gorandp/python_basic
 [8]: https://scipython.com/blog/
-[9]: https://youtube.com/
+[9]: https://youtu.be/gFLcU1dJUEk
 [10]: https://scipython.com/blog/plotting-covid-19-cases/
