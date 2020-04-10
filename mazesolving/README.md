@@ -1,4 +1,11 @@
 # mazesolving
+
+## Watchout!
+
+- ORIGINAL REPO. [mazesolving][1]
+- YOUTUBE VIDEO. [Maze Solving - Computerphile][2]
+- YOUTUBE VIDEO. [EXTRA BITS - Maze Solving Code - Computerphile][3]
+
 A variety of algorithms to solve mazes from an input image.
 
 ![maze image](examples/logo.png)
@@ -25,3 +32,6 @@ This was just a side project I did for fun over a couple of evenings, I'm sure t
 - Mazes don't need to be square - as long as they are surrounded by black walls. The input image will obviously be square.
 - Large areas of white, using my algorithm, will essentially degenerate into an inefficient flood fill - avoid!
 
+[1]: <https://github.com/mikepound/mazesolving>
+[2]: <https://youtu.be/rop0W4QDOUI>
+[3]: <https://www.youtube.com/watch?v=kF7KlThoT9w>
