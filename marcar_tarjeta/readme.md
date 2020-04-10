@@ -59,6 +59,4 @@ Traten de entender primero qué es lo que está pasando y luego solucionarlo.
 
 Se puede seguir mejorandolo, cómo por ejemplo hacer otro script super simple que use una librería tipo jupyter y graficar los datos.
 
-Lo que se te ocurra y querés que lo ponga como ejemplo acá, creá un issue diciendo la idea para mejorar el programa.
-
-También podemos crear una repo y que colaboremos todos para dejar bien el programa este.
+Si se les ocurre algo y quieren que lo ponga como ejemplo acá, creen un issue diciendo la idea para mejorar el programa, o me mandan un mensaje por WhatsApp.
