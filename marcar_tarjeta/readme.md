@@ -38,6 +38,23 @@ Tampoco fui muy bueno al asignar nombres... pero bueno, anda.
 
 No solo se puede usar para controlar el tiempo de trabajo, sino que también de estudio o de alguna actividad que hagan.
 
+## Reto
+
+Fijense que cuando corren `summary.py` les tira un warning:
+
+```bash
+summary.py:26: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  errors='coerce')
+--- SUMMARY DONE ---
+--- ANALYSIS DONE ---
+```
+
+Traten de entender primero qué es lo que está pasando y luego solucionarlo.
+
 ## Integrar con otras cosas
 
 Se puede seguir mejorandolo, cómo por ejemplo hacer otro script super simple que use una librería tipo jupyter y graficar los datos.
