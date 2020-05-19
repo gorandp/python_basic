@@ -12,6 +12,8 @@ Para usar python, si no lo tienen instalado en su computadora, deben de descarga
 
 Hay tutoriales en youtube para hacerlo, yo les comparto [este básico que hice][9] en el que no lo dejo tan explícito, sino que lo que hago es dejarlo andando junto con VS Code (le falta explicar mil cosas, pero bueno, fue la primera vez que hago algo así :) ). Dejen en los comentarios del video si encuentran errores, tienen sugerencias, etc.
 
+**EDIT:** Please, busquen otro tutorial más si ese no les queda claro. En el idioma que sea, total siempre está la posibilidad de usar el traductor de google (en caso de algo escrito) y ocasionalmente la traducción automática de los subtítulos (en el caso de un video).
+
 ### Instalar editor de código
 
 Luego como editor de código uso [VSCode], aunque [Atom] es popular también.
