@@ -52,6 +52,10 @@ Además, seguro encontrarán librerías que no saben que hacen, por lo que yo ha
 
 Obvio que esto es tocar la punta del iceberg, pero como inicio esta bueno.
 
+- [Marcar Tarjeta](https://github.com/gorandp/python_basic/tree/master/marcar_tarjeta) ([doc](https://python-basic.goran.com.ar/marcar_tarjeta/))
+- [Mazesolving](https://github.com/gorandp/python_basic/tree/master/mazesolving) ([doc](https://python-basic.goran.com.ar/mazesolving/))
+- [Covid 19](https://github.com/gorandp/python_basic/tree/master/covid2019)
+
 ---
 
 ## Dudas
